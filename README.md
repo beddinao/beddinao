@@ -1,4 +1,4 @@
-<h1 align="start">Hi I'm Beddinao</h1>
+<h1 align="start">Hi I'm Bilal Eddinaoui</h1>
 <h3 align="start">Aspiring Software Engineer | Student</h3>
 
 <h3 align="left">Languages and Tools:</h3>
