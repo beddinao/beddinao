@@ -14,4 +14,6 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=beddinao&label=Profile%20views&color=c7c7cc&style=flat-square" alt="beddinao" /> </p>
 
-<img src="./1337-logo.svg" alt="1337-logo" />
+<figure>
+  <img src="./1337-logo.svg" alt="1337-logo" />
+</figure>
