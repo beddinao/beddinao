@@ -8,8 +8,8 @@
 <!--<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/beddinao" alt="beddinao's 42 stats" /></a>-->
 
 
-<figure>
-  <img src="./42-stats-badge.svg" alt="42-stats-badge" width="100%" />
+<figure width="100%">
+  <img src="./42-stats-badge.svg" alt="42-stats-badge"  />
 </figure>
 
 
