@@ -9,8 +9,5 @@
 
 
 
-<figure >
-  <img src="./42-stats-badge.svg" alt="42-stats-badge" />
-</figure>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beddinao&label=Profile%20views&color=c7c7cc&style=flat-square" alt="beddinao" /> </p>
