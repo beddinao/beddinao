@@ -9,7 +9,7 @@
 
 
 <figure>
-  <img src="./42-stats-badge.svg" alt="42-stats-badge" border="1px solid red" />
+  <img src="./42-stats-badge.svg" alt="42-stats-badge" width="100%" />
 </figure>
 
 
