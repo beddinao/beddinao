@@ -3,6 +3,7 @@
 
 ```
 Computer Science Student
+
 Linux, Bash, C/C++, Python/JavaScript
 ```
 
