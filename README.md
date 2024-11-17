@@ -1,4 +1,4 @@
-<h1 align="start">Hi I'm Bilal Eddinaoui</h1>
+
 <!--<h3 align="start">Computer Science Student</h3>-->
 
 ```
