@@ -22,6 +22,6 @@ Linux, Bash, C/C++, Python/JavaScript
 
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=beddinao&label=Profile%20views&color=c7c7cc&style=flat-square" alt="beddinao" /> </p>
+<!--p align="right"> <img src="https://komarev.com/ghpvc/?username=beddinao&label=Profile%20views&color=c7c7cc&style=flat-square" alt="beddinao" /> </p-->
 
 
