@@ -5,7 +5,7 @@
 
 
 ```
-Linux, Bash, C/C++, Python/JavaScript
+Linux, C/C++, Bash, Python/JavaScript
 ```
 
 <!--<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/beddinao" alt="beddinao's 42 stats" /></a>-->
