@@ -23,3 +23,9 @@ Linux, C/C++, Bash, Python/JavaScript
     <img src="https://github-readme-stats.vercel.app/api?username=beddinao&theme=dark&bg_color=45,202020,000000&text_color=9A9A9A&show_icons=true&icon_color=ffffff&hide_border=true&line_height=30&show=prs_merged,prs_merged_percentage" align="center" />
   </a>
 </div>
+
+<br>
+
+<div align="center" style="width: 100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=beddinao&theme=xcode&color=9A9A9A&hide_border=true&days=50&bg_color=00000000&area=true&custom_title=Contributions%20graph%20in%20the%20last%2050%20days&title_color=dbdbdb" style="width: 100%" align="center" />
+</div>
