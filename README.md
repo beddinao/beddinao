@@ -1,6 +1,6 @@
 # Hi I'm Bilal Eddinaoui
 
-### *`Computer Science Student`* at <a href="https://1337.ma">*`1337` School* </a> Khouribga campus
+### *`Computer Science Student`* at <a href="https://1337.ma">*`1337 School`* </a> Khouribga campus
 
 ```
 Linux, C/C++, Bash, Python/JavaScript
