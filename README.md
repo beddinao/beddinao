@@ -10,10 +10,10 @@ Linux, C/C++, Bash, Python/JavaScript
 
 <div align="center">
   <a href="https://github.com/beddinao">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beddinao&theme=dark&bg_color=45,202020,000000&text_color=9A9A9A&show_icons=true&icon_color=ffffff&hide_border=true&hide=Objective-C&size_weight=0.5&count_weight=0.5" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beddinao&theme=dark&bg_color=45,202020,000000&text_color=9A9A9A&show_icons=true&icon_color=ffffff&hide_border=true&hide=Objective-C&size_weight=0.5&count_weight=0.5#gh-dark-mode-only" align="center" />
   </a>
   <a hreef="https://github.com/beddinao">
-    <img src="https://github-readme-stats.vercel.app/api?username=beddinao&theme=dark&bg_color=45,202020,000000&text_color=9A9A9A&show_icons=true&icon_color=ffffff&hide_border=true&line_height=30&show=prs_merged,prs_merged_percentage&custom_title=General%20Stats" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api?username=beddinao&theme=dark&bg_color=45,202020,000000&text_color=9A9A9A&show_icons=true&icon_color=ffffff&hide_border=true&line_height=30&show=prs_merged,prs_merged_percentage&custom_title=General%20Stats#gh-dark-mode-only" align="center" />
   </a>
 </div>
 
