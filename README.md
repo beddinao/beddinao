@@ -1,22 +1,22 @@
 # Hi I'm Bilal Eddinaoui
 
-### Student at <a href="https://1337.ma">*`1337`* </a>, the <a href="https://42.fr">*`42`*</a> Network, khouribga Campus
+### Student at <a href="https://1337.ma">*`1337`* </a>, the <a href="https://42.fr">*`42`*</a> Network, khouribga Campus 
 
-```
-Linux, C/C++, Bash, Python/JavaScript
-```
+<br>
 <br>
 <br>
 
-<div align="center">
+<div align="center" width="100%">
   <a href="https://github.com/beddinao">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beddinao&theme=dark&bg_color=00000000&text_color=9A9A9A&show_icons=true&icon_color=ff8070&hide_border=false&border_color=2c2f34&hide=Objective-C&size_weight=0.5&count_weight=0.5&title_color=dbdbdb" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beddinao&theme=dark&bg_color=00000000&text_color=9A9A9A&show_icons=true&icon_color=ff8070&hide_border=false&border_color=2c2f34&hide=Objective-C&size_weight=0.5&count_weight=0.5&title_color=dbdbdb" align="center" width="37%" />
   </a>
-  <a hreef="https://github.com/beddinao">
-    <img src="https://github-readme-stats.vercel.app/api?username=beddinao&theme=dark&bg_color=00000000&text_color=9A9A9A&show_icons=true&icon_color=ff8070&ring_color=c4e3ff&hide_border=false&border_color=2c2f34&line_height=30&show=prs_merged,prs_merged_percentage&custom_title=General%20Stats&title_color=dbdbdb" align="center" />
+  <a hreef="https://github.com/beddinao"">
+    <img src="https://github-readme-stats.vercel.app/api?username=beddinao&theme=dark&bg_color=00000000&text_color=9A9A9A&show_icons=true&icon_color=ff8070&ring_color=c4e3ff&hide_border=false&border_color=2c2f34&line_height=30&show=prs_merged,prs_merged_percentage&custom_title=General%20Stats&title_color=dbdbdb" align="center" width="58%" />
   </a>
 </div>
 
+<br>
+<br>
 <br>
 
 <div align="center" style="width: 100%">
