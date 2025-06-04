@@ -8,7 +8,7 @@
 
 <div align="center" width="100%">
   <a href="https://github.com/beddinao">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beddinao&theme=dark&bg_color=00000000&text_color=9A9A9A&show_icons=true&icon_color=ff8070&hide_border=false&border_color=2c2f34&hide=Objective-C&size_weight=0.5&count_weight=0.5&title_color=dbdbdb" align="center" width="37%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beddinao&theme=dark&bg_color=00000000&text_color=9A9A9A&show_icons=true&icon_color=ff8070&hide_border=false&border_color=2c2f34&hide=Objective-C,Perl,Java,CMake,HTML&size_weight=0.5&count_weight=0.5&title_color=dbdbdb" align="center" width="37%" />
   </a>
   <a hreef="https://github.com/beddinao"">
     <img src="https://github-readme-stats.vercel.app/api?username=beddinao&theme=dark&bg_color=00000000&text_color=9A9A9A&show_icons=true&icon_color=ff8070&ring_color=c4e3ff&hide_border=false&border_color=2c2f34&line_height=30&show=prs_merged,prs_merged_percentage&custom_title=General%20Stats&title_color=dbdbdb" align="center" width="58%" />
