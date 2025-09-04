@@ -1,6 +1,6 @@
 # Hi I'm Bilal Eddinaoui
 
-### Student at <a href="https://1337.ma">*`1337`* </a>, the <a href="https://42.fr">*`42`*</a> Network, khouribga Campus 
+### Student at <a href="">*`1337`* </a>, the <a href="">*`42`*</a> Network, khouribga Campus 
 
 <br>
 <br>
