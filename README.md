@@ -7,10 +7,10 @@
 
 <div align="center" width="100%">
   <a href="https://github.com/beddinao">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beddinao&cache_seconds=21600&theme=dark&border_radius=16&bg_color=1e252b&text_color=bfbfbf&show_icons=true&icon_color=ff8070&hide_border=true&hide=Objective-C,Perl,Java,CMake,HTML,SmPl&size_weight=0.5&count_weight=0.5&title_color=dbdbdb" align="center" width="37%" />
+    <img src="https://custom-readme-stats.vercel.app/api/top-langs/?username=beddinao&cache_seconds=21600&theme=dark&border_radius=16&bg_color=1e252b&text_color=bfbfbf&show_icons=true&icon_color=ff8070&hide_border=true&hide=Objective-C,Perl,Java,CMake,HTML,SmPl&size_weight=0.5&count_weight=0.5&title_color=dbdbdb" align="center" width="37%" />
   </a>
   <a hreef="https://github.com/beddinao"">
-    <img src="https://github-readme-stats.vercel.app/api?username=beddinao&theme=dark&bg_color=1e252b&text_color=bfbfbf&border_radius=16&show_icons=true&icon_color=ff8070&ring_color=c4e3ff&hide_border=true&line_height=30&show=prs_merged,prs_merged_percentage&custom_title=General%20Stats&title_color=dbdbdb" align="center" width="58%" />
+    <img src="https://custom-readme-stats.vercel.app/api?username=beddinao&theme=dark&bg_color=1e252b&text_color=bfbfbf&border_radius=16&show_icons=true&icon_color=ff8070&ring_color=c4e3ff&hide_border=true&line_height=30&show=prs_merged,prs_merged_percentage&custom_title=General%20Stats&title_color=dbdbdb" align="center" width="58%" />
   </a>
 </div>
 
