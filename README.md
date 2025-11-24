@@ -42,7 +42,7 @@ loop:
 /*  
     . can be run online on my emulator: https://c64.beddinao.me
     . or on: https://ide.retrogamecoders.com/?platform=c64
-    .prg binary file: https://github.com/beddinao/beddinao/raw/refs/heads/main/about_me.prg
+    .prg binary file: https://c64.beddinao.me/programs/About_Me.prg
 */
 ```
 
