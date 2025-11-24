@@ -39,8 +39,11 @@ print:
 loop:
     jmp loop
 
-//; can be run on my emulator https://github.com/beddinao/commodore_64_emulator
-//; or online on https://ide.retrogamecoders.com/?platform=c64
+/*  
+    . can be run online on my emulator: https://c64.beddinao.me
+    . or on: https://ide.retrogamecoders.com/?platform=c64
+    .prg binary file: https://github.com/beddinao/beddinao/raw/refs/heads/main/about_me.prg
+*/
 ```
 
 <div align="center" width="100%">
