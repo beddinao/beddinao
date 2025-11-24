@@ -1,9 +1,47 @@
-# Hi I'm Bilal Eddinaoui
+<!--# Hi I'm Bilal Eddinaoui
 
 ### Student at <a href="">*`1337`* </a>, the <a href="">*`42`*</a> Network, khouribga Campus 
+-->
 
-<br>
-<br>
+```assembly
+//; KickAss 6502 Assembler
+.pc = $0801 "Basic Upstart"
+:BasicUpstart(start)
+
+.pc = $0810 "About Me"
+
+.encoding "screencode_upper"
+text:
+    .text "                                        "
+    .text "            BILAL EDDINAOUI             "
+    .text "                                        " 
+    .text "           SYSTEMS ARCHITECT            " 
+    .text "                                        "
+    .text "      C/C++ | TCP/IP | AGENTIC AI       "
+    .text "                                        "
+    .byte $00
+
+start:
+    lda #$00
+    sta $d020
+    sta $d021
+    ldx #$00
+    
+print:
+    lda text,x
+    beq loop
+    sta $0400,x
+    lda #$01
+    sta $d800,x
+    inx
+    bne print
+    
+loop:
+    jmp loop
+
+//; can be run on my emulator https://github.com/beddinao/commodore_64_emulator
+//; or online on https://ide.retrogamecoders.com/?platform=c64
+```
 
 <div align="center" width="100%">
   <a href="https://github.com/beddinao">
@@ -14,8 +52,6 @@
   </a>
 </div>
 
-<br>
-<br>
 <br>
 
 <!--div align="center" style="width: 100%">
