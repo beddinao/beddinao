@@ -4,7 +4,7 @@
 -->
 
 ```assembly
-//; KickAss 6502 Assembler
+// KickAss 6502 Assembler
 .pc = $0801 "Basic Upstart"
 :BasicUpstart(start)
 
