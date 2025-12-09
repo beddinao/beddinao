@@ -3,7 +3,7 @@
 ### Student at <a href="">*`1337`* </a>, the <a href="">*`42`*</a> Network, khouribga Campus 
 -->
 
-```assembly
+```cpp
 // KickAss 6502 Assembler
 .pc = $0801 "Basic Upstart"
 :BasicUpstart(start)
