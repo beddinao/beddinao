@@ -46,7 +46,7 @@ loop:
 */
 ```
 
-<div align="center" width="100%">
+<!--div align="center" width="100%">
   <a href="https://github.com/beddinao">
     <img src="https://custom-readme-stats.vercel.app/api/top-langs/?username=beddinao&cache_seconds=21600&theme=dark&border_radius=16&bg_color=1e252b&text_color=bfbfbf&show_icons=true&icon_color=ff8070&hide_border=true&count_weight=0.5&title_color=dbdbdb&hide=Objective-C,CMake,Perl,Java&stats_format=bytes" align="center" width="37%" />
   </a>
@@ -55,7 +55,7 @@ loop:
   </a>
 </div>
 
-<br>
+<br-->
 
 <!--div align="center" style="width: 100%">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=beddinao&theme=xcode&color=bfbfbf&hide_border=true&days=40&bg_color=1e252b&area=true&radius=16&custom_title=Contributions%20graph%20in%20the%20last%2040%20days&title_color=dbdbdb&height=600" style="width: 100%" align="center" />
