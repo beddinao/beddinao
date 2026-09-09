@@ -15,7 +15,7 @@ text:
     .text "                                        "
     .text "            BILAL EDDINAOUI             "
     .text "                                        " 
-    .text "           SYSTEMS ARCHITECT            " 
+    .text "      SOFTWARE ENGINEERING STUDENT      " 
     .text "                                        "
     .text "      C/C++ | TCP/IP | AGENTIC AI       "
     .text "                                        "
