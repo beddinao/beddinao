@@ -17,7 +17,7 @@ text:
     .text "                                        " 
     .text "      SOFTWARE ENGINEERING STUDENT      " 
     .text "                                        "
-    .text "      C/C++ | TCP/IP | AGENTIC AI       "
+    .text "        C | TCP/IP | AGENTIC AI         "
     .text "                                        "
     .byte $00
 
