@@ -4,7 +4,7 @@
 -->
 
 ```cpp
-// KickAss
+// Kick Assembler
 .pc = $0801 "Basic Upstart"
 :BasicUpstart(start)
 
